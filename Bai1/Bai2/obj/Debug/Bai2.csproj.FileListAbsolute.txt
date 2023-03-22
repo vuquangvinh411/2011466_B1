@@ -1,0 +1,9 @@
+E:\ThucHanhDesktopBuoi1\Bai1\Bai2\bin\Debug\Bai2.exe.config
+E:\ThucHanhDesktopBuoi1\Bai1\Bai2\bin\Debug\Bai2.exe
+E:\ThucHanhDesktopBuoi1\Bai1\Bai2\bin\Debug\Bai2.pdb
+E:\ThucHanhDesktopBuoi1\Bai1\Bai2\obj\Debug\Bai2.Properties.Resources.resources
+E:\ThucHanhDesktopBuoi1\Bai1\Bai2\obj\Debug\Bai2.csproj.GenerateResource.cache
+E:\ThucHanhDesktopBuoi1\Bai1\Bai2\obj\Debug\Bai2.csproj.CoreCompileInputs.cache
+E:\ThucHanhDesktopBuoi1\Bai1\Bai2\obj\Debug\Bai2.exe
+E:\ThucHanhDesktopBuoi1\Bai1\Bai2\obj\Debug\Bai2.pdb
+E:\ThucHanhDesktopBuoi1\Bai1\Bai2\obj\Debug\Bai2.Form1.resources

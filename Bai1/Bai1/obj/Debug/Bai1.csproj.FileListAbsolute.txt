@@ -1,0 +1,10 @@
+E:\ThucHanhDesktopBuoi1\Bai1\Bai1\bin\Debug\Bai1.exe.config
+E:\ThucHanhDesktopBuoi1\Bai1\Bai1\bin\Debug\Bai1.exe
+E:\ThucHanhDesktopBuoi1\Bai1\Bai1\bin\Debug\Bai1.pdb
+E:\ThucHanhDesktopBuoi1\Bai1\Bai1\obj\Debug\Bai1.csproj.AssemblyReference.cache
+E:\ThucHanhDesktopBuoi1\Bai1\Bai1\obj\Debug\Bai1.Mainform.resources
+E:\ThucHanhDesktopBuoi1\Bai1\Bai1\obj\Debug\Bai1.Properties.Resources.resources
+E:\ThucHanhDesktopBuoi1\Bai1\Bai1\obj\Debug\Bai1.csproj.GenerateResource.cache
+E:\ThucHanhDesktopBuoi1\Bai1\Bai1\obj\Debug\Bai1.csproj.CoreCompileInputs.cache
+E:\ThucHanhDesktopBuoi1\Bai1\Bai1\obj\Debug\Bai1.exe
+E:\ThucHanhDesktopBuoi1\Bai1\Bai1\obj\Debug\Bai1.pdb
